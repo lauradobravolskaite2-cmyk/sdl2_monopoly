@@ -1,0 +1,13 @@
+Eikite į FREE TRIAL laukelį.,0,0
+Eikite į Startą (Start Program) ir pasiimkite 102400 baitų.,0,0
+Eikite į MATH langelį, jei praeisite Start Programm, pasiimkite 200 bitų.,200
+Jūsų kompas sulūžo, sumokėkite 1000 bitų už remontą.,-1000
+Jūsų komanda laimėjo Hacktoną, gaunate 500 bitų.,500
+Eikite į langelį linux.,0,36
+ROM jums išmoka 10000 baitų.,10000,0
+Sumokėkite 200000 baitų.,-200000,0
+Atliekate bendrus savo programų debuginimus sumokėkite - 500 bitų.,-500
+Keliaukite į langelį Ripes, jei praeinate Start Programm, pasiimkite 102400 baitų.,0,39
+Keliaukite į langelį Iostream, jei praeinate Start Programm, pasiimkite 102400 baitų.,0,35
+Keliaukite į langelį Java until, jei praeinate Start Programm, pasiimkite 102400 baitų.,0,23
+Jūsų programa parduota. Pasiimkite 10000 baitų.,10000,0

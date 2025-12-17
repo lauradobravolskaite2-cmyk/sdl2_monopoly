@@ -1,0 +1,13 @@
+Eikite į FREE TRIAL laukelį.,0,22
+Eikite į Startą (Start Program) ir pasiimkite 102400 baitų.,0,0
+Eikite į MATH langelį, jei praeisite Start Programm, pasiimkite 102400 baitų.,0,25
+Jūsų kompas sulūžo, sumokėkite 1000000 bitų už remontą.,-1000000,45
+Jūsų komanda laimėjo Hacktoną, gaunate 500000 baitų.,500000,45
+Eikite į langelį Start Programm.,0,0
+ROM jums išmoka 100 bitų.,48000,45
+Grįžkite 3 langeliais atgal.,0,-3
+Atliekate bendrus savo programų debuginimus sumokekite 12426 baitu,0
+Bauda už DI naudojima 500000,-500000,0
+Keliaukite į langelį Iostream, jei praeinate Start Programm, pasiimkite 102400 bitų.,0,32
+Buvote išrinktas valdybos pirmininku. Sumokėkite kiekvienam žaidėjui 50000 baitų.,-50000,0
+Jūsų programa parduota. Pasiimkite 1000000 bitų.,1000000,0

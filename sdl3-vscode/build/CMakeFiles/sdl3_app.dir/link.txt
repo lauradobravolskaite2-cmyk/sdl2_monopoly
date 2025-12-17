@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sdl3_app.dir/src/main.c.o -o sdl3_app -F/Users/lauradiscool/SDL3/build  -Wl,-rpath,/Users/lauradiscool/SDL3/build /Users/lauradiscool/SDL3/build/SDL3.framework/Versions/A/SDL3
